@@ -57,7 +57,7 @@ Metadata typically define the document title, character set, styles, scripts, an
 
 The following elements can go inside the `<head>` element:
 
-- [<title>](https://www.w3schools.com/tags/tag_title.asp "W3Schools") (required in every HTML document)
+- [<title>][7] (required in every HTML document)
 - \<style>
 - \<base>
 - \<link>
@@ -78,10 +78,11 @@ Note: There can only be one `<body>` element in an HTML document.
 - [DevDocs][5] - A website that combines multiple API documentations in a fast, organized, and searchable interface
 - [HTML.com][6] - HTML.com helps web developers of all stripes and skill levels craft the best HTML and CSS possible
     
-<!-- External links -->
-[1] https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags "Go to the discusion"
-[2] https://html.com/tags/doctype/#ixzz75LvhlpOp "HTML.com"
-[3] https://www.udemy.com/share/1013eA3@DWujVyuW9i5f-Dd9vFBhD86NyAiX2TpDEJvqmdQPdTj_DEH0dJGaMbm1QgGJVd4JvA==/ "Udemy Course"
-[4] https://www.udemy.com/ "Go to the website"
-[5] https://devdocs.io/html/ "Go to the website"
-[6] https://html.com/ "Go to the website"
+## External links
+[1]: https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags "Go to the discusion"
+[2]: https://html.com/tags/doctype/#ixzz75LvhlpOp "HTML.com"
+[3]: https://www.udemy.com/share/1013eA3@DWujVyuW9i5f-Dd9vFBhD86NyAiX2TpDEJvqmdQPdTj_DEH0dJGaMbm1QgGJVd4JvA==/ "Udemy Course"
+[4]: https://www.udemy.com/ "Go to the website"
+[5]: https://devdocs.io/html/ "Go to the website"
+[6]: https://html.com/ "Go to the website"
+[7]: https://www.w3schools.com/tags/tag_title.asp "W3Schools"
