@@ -58,12 +58,12 @@ Metadata typically define the document title, character set, styles, scripts, an
 The following elements can go inside the `<head>` element:
 
 - [<title>](https://www.w3schools.com/tags/tag_title.asp "W3Schools") (required in every HTML document)
-- `<style>`
-- `<base>`
-- `<link>`
-- `<meta>`
-- `<script>`
-- `<noscript>`
+- \<style>
+- \<base>
+- \<link>
+- \<meta>
+- \<script>
+- \<noscript>
 
 ### HTML `<body>` Tag
 
