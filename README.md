@@ -41,19 +41,16 @@ The `<!DOCTYPE html>` declaration is used to inform a website visitor's browser 
 
 ### HTML \<html> Tag
 
-The `<html>` tag represents the root of an HTML document.
-
-The `<html>` tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
+- The `<html>` tag represents the root of an HTML document.
+- The `<html>` tag is the container for all other HTML elements (except for the <!DOCTYPE> tag).
 
 **Note**: You should always include the lang attribute inside the `<html>` tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
 
 ### HTML \<head> Tag
 
-The `<head>` element is a container for metadata (data about data) and is placed between the `<html>` tag and the `<body>` tag.
-
-Metadata is data about the HTML document. Metadata is not displayed.
-
-Metadata typically define the document title, character set, styles, scripts, and other meta information.
+- The `<head>` element is a container for metadata (data about data) and is placed between the `<html>` tag and the `<body>` tag.
+- Metadata is data about the HTML document. Metadata is not displayed.
+- Metadata typically define the document title, character set, styles, scripts, and other meta information.
 
 The following elements can go inside the `<head>` element:
 
@@ -67,9 +64,8 @@ The following elements can go inside the `<head>` element:
 
 ### HTML \<body> Tag
 
-The `<body>` tag defines the document's body.
-
-The `<body>` element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+- The `<body>` tag defines the document's body.
+- The `<body>` element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 
 Note: There can only be one `<body>` element in an HTML document.
 
@@ -78,7 +74,7 @@ Note: There can only be one `<body>` element in an HTML document.
 - [DevDocs][5] - A website that combines multiple API documentations in a fast, organized, and searchable interface
 - [HTML.com][6] - HTML.com helps web developers of all stripes and skill levels craft the best HTML and CSS possible
     
-## External links
+<!-- External links -->
 [1]: https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags "Go to the discusion"
 [2]: https://html.com/tags/doctype/#ixzz75LvhlpOp "HTML.com"
 [3]: https://www.udemy.com/share/1013eA3@DWujVyuW9i5f-Dd9vFBhD86NyAiX2TpDEJvqmdQPdTj_DEH0dJGaMbm1QgGJVd4JvA==/ "Udemy Course"
