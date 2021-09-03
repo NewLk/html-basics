@@ -29,17 +29,17 @@ Althogh, the correct structure for an HTML page would be:
 
 Since you can still visualize your webpage on your browser the same way you formatted it when you don't use this structure, it seems pretty much unnecessary. Because of that, this is a question that came to my mind:
 
-**is it necessary to write HEAD, BODY, and HTML tags?**
+**Is it necessary to write HEAD, BODY, and HTML tags?**
 
-Fortunately, I found a very good answer on [StackOverflow](https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags "Go to the discusion").
+Fortunately, I found a very good answer on [StackOverflow][1].
 
 ### HTML <!DOCTYPE> Declaration
 
 The `<!DOCTYPE html>` declaration is used to inform a website visitor's browser that the document being rendered is an HTML document. While not actually an HTML element itself, every HTML document should being with a DOCTYPE declaration to be compliant with HTML standards.
 
-[Read more on the subject](https://html.com/tags/doctype/#ixzz75LvhlpOp "HTML.com")
+[Read more on the subject][2]
 
-### HTML `<html>` Tag
+### HTML \<html> Tag
 
 The `<html>` tag represents the root of an HTML document.
 
@@ -47,7 +47,7 @@ The `<html>` tag is the container for all other HTML elements (except for the <!
 
 **Note**: You should always include the lang attribute inside the `<html>` tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
 
-### HTML `<head>` Tag
+### HTML \<head> Tag
 
 The `<head>` element is a container for metadata (data about data) and is placed between the `<html>` tag and the `<body>` tag.
 
@@ -65,7 +65,7 @@ The following elements can go inside the `<head>` element:
 - \<script>
 - \<noscript>
 
-### HTML `<body>` Tag
+### HTML \<body> Tag
 
 The `<body>` tag defines the document's body.
 
@@ -74,6 +74,14 @@ The `<body>` element contains all the contents of an HTML document, such as head
 Note: There can only be one `<body>` element in an HTML document.
 
 ## References
-- [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/share/1013eA3@DWujVyuW9i5f-Dd9vFBhD86NyAiX2TpDEJvqmdQPdTj_DEH0dJGaMbm1QgGJVd4JvA==/ "Udemy Course") - A paid course on [Udemy](https://www.udemy.com/)
-- [DevDocs](https://devdocs.io/html/ "Go to the website") - A website that combines multiple API documentations in a fast, organized, and searchable interface
-- [HTML.com](https://html.com/ "Go to the website") - HTML.com helps web developers of all stripes and skill levels craft the best HTML and CSS possible
+- [Modern HTML & CSS From The Beginning (Including Sass)][3] - A paid course on [Udemy][4]
+- [DevDocs][5] - A website that combines multiple API documentations in a fast, organized, and searchable interface
+- [HTML.com][6] - HTML.com helps web developers of all stripes and skill levels craft the best HTML and CSS possible
+    
+<!-- External links -->
+[1] https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags "Go to the discusion"
+[2] https://html.com/tags/doctype/#ixzz75LvhlpOp "HTML.com"
+[3] https://www.udemy.com/share/1013eA3@DWujVyuW9i5f-Dd9vFBhD86NyAiX2TpDEJvqmdQPdTj_DEH0dJGaMbm1QgGJVd4JvA==/ "Udemy Course"
+[4] https://www.udemy.com/ "Go to the website"
+[5] https://devdocs.io/html/ "Go to the website"
+[6] https://html.com/ "Go to the website"
